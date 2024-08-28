@@ -1,0 +1,17 @@
+#nav-logo:hover {
+    border : 2px solid white !important;
+    border-radius: 3px;
+}
+
+/* .ext-body{
+    top : 150px !important;
+} */
+
+.ext-footer {
+    background-color: #212529;
+    height : 126px;
+    color : white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
